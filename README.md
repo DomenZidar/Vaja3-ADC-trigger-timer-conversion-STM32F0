@@ -24,3 +24,6 @@ HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_9);
 Komentar: 
 
 Program deluje brez napak.
+
+
+Tim Tušek in Domen Zidar
